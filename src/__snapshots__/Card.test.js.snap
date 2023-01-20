@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      Photo by Richard Pasquarella on Unsplash
+    </h4>
+    <img
+      alt="Photo by Richard Pasquarella on Unsplash"
+      class="Card-image"
+    />
+    <small
+      class="Card-small"
+    >
+      Image  of .
+    </small>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      Photo by Pratik Patel on Unsplash
+    </h4>
+    <img
+      alt="Photo by Pratik Patel on Unsplash"
+      class="Card-image"
+    />
+    <small
+      class="Card-small"
+    >
+      Image  of .
+    </small>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot 3`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      Photo by Josh Post on Unsplash
+    </h4>
+    <img
+      alt="Photo by Josh Post on Unsplash"
+      class="Card-image"
+    />
+    <small
+      class="Card-small"
+    >
+      Image  of .
+    </small>
+  </div>
+</DocumentFragment>
+`;
